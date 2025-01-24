@@ -1,20 +1,16 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: Hafsah Shahzad
+description: "Homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: background.jpg
 ---
 
-I am a research scientist at <a href="https://deepmind.google" target="_blank">Google DeepMind</a>.
+I am a recent PhD graduate from Boston University <a href="https://www.bu.edu/caadlab/#/" target="_blank">CAAD lab</a>. My research focused on increasing performance efficiency of compilers and helping programmers achieve code that is performant, portable and programmable using artificial intelligence. I have expertise in deep learning, in particular reinforcement learning and beyesian optimization to enhance system efficiency.
 
 <br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
+Previously, I worked at <a href="https://www.ti.com/" target="_blank">Texas Instruments</a> in post-silicon chip testinga nd validation. 
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
-
+My detailed CV can be found here and my short resume can be found here.

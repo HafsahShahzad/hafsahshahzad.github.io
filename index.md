@@ -3,8 +3,8 @@ layout: home2
 title: Hafsah Shahzad
 description: "Homepage"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: google-deepmind-8heReYC6Zt0-unsplash_1244x700.jpg
+#image:
+#  feature: google-deepmind-8heReYC6Zt0-unsplash_1244x700.jpg
 ---
 
 I am a recent PhD graduate in Computer Engineering from Boston University, where I was advised by <a href="https://people.bu.edu/herbordt/" target="_blank">Prof. Martin Herbordt</a> and mentored by the research team at Red Hat (<a href="https://research.redhat.com/blog/project_member/ulrich-drepper/" target="_blank">Ulrich Drepper</a>, <a href="https://research.redhat.com/blog/project_member/sanjay-arora/" target="_blank">Sanjay Arora</a> and <a href="https://research.redhat.com/blog/project_member/ahmed-sanaullah/" target="_blank">Ahmed Sanaullah</a>) as part of the <a href="https://research.redhat.com/blog/research_project/practical-programming-of-fpgas-with-open-source-tools/" target="_blank">Red Hat - Boston University Collaboratory</a>.
